@@ -18,6 +18,9 @@ Welcome to my code corner! I'm a passionate backend developer with a focus on Py
 - Object-Oriented Programming (OOP)
 - Python, C/C++, Java
 - Team Collaboration
+- Fast Learner
+- Self-Taught
+- Creative
 
 <!--
 ## Featured Projects 🚀
