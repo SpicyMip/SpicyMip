@@ -1,4 +1,4 @@
-# Hi there, I'm SpicyMip! 🦔🦔🦔
+# Hi there, I'm SpicyMip! 🦔🐙🐧
 ### Backend Developer | Computer Engineering | Universidad Técnica Federico Santa María
 
 Welcome to my code corner! I'm a passionate backend developer with a focus on Python, C/C++, and Java. Currently, I'm in my fourth year of Computer Engineering at Universidad Técnica Federico Santa María.
