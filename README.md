@@ -14,6 +14,8 @@ Welcome to my code corner! I'm a passionate backend developer with a focus on Py
 - **Major:** Computer Engineering (4th year)
 
 ## Skills 💻
+- Freelance Experience (Started working as a freelance programmer in February 2024 following my internship)
+- Teaching (University teaching assistant for one year and private programming tutor in Python and C++ this year)
 - Backend Development
 - Object-Oriented Programming (OOP)
 - Python, C/C++, Java
@@ -21,8 +23,8 @@ Welcome to my code corner! I'm a passionate backend developer with a focus on Py
 - Fast Learner
 - Self-Taught
 - Creative
-- Teaching (University teaching assistant for one year and private programming tutor in Python and C++ this year)
-- Freelance Experience (Started working as a freelance programmer in February 2024 following my internship)
+
+
 
 <!--
 ## Featured Projects 🚀
