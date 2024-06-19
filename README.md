@@ -21,6 +21,8 @@ Welcome to my code corner! I'm a passionate backend developer with a focus on Py
 - Fast Learner
 - Self-Taught
 - Creative
+- Teaching (University teaching assistant for one year and private programming tutor in Python and C++ this year)
+- Freelance Experience (Started working as a freelance programmer in February 2024 following my internship)
 
 <!--
 ## Featured Projects 🚀
@@ -29,4 +31,4 @@ Welcome to my code corner! I'm a passionate backend developer with a focus on Py
 ## Contact 📫
 I'd love to connect with you! You can find me on [LinkedIn](https://www.linkedin.com/in/martin-pino-8ba116260/) or [Instagram](https://www.instagram.com/spicymip/).
 
-Thanks for visiting my profile! 
+Thanks for visiting my profile!
