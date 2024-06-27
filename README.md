@@ -43,3 +43,6 @@ I'd love to connect with you! You can find me on my socials
 
 ###
 Thanks for visiting my profile!
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
