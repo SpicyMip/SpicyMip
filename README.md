@@ -33,7 +33,7 @@ Welcome to my code corner! I'm a passionate backend developer with a focus on Py
 ## Contact 📫
 I'd love to connect with you! You can find me on my socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@spicymip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-pino-8ba116260) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SpicyMip) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@spicymip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-pino-8ba116260)
 
 <div align="left">
   <a href="https://open.spotify.com/user/4ophmbslwqoc29ech3hlg4hsn">
