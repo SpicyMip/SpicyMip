@@ -1,7 +1,7 @@
 # Hi there, I'm SpicyMip! 🦔🐙🐧
 ### Backend Developer | Computer Engineering | Universidad Técnica Federico Santa María
 
-Welcome to my code corner! I'm a passionate backend developer with a focus on Python, C/C++, and Java. Currently, I'm in my fifth year of Civil Engineering Computer Science at Universidad Técnica Federico Santa María.
+Welcome to my code corner! I'm a passionate backend developer with a focus on Go, C/C++ and Python. Currently, I'm in my Sixth year of Civil Engineering Computer Science at Universidad Técnica Federico Santa María.
 
 ## About Me
 - **Name:** Martin Pino
@@ -11,7 +11,7 @@ Welcome to my code corner! I'm a passionate backend developer with a focus on Py
 
 ## Education 📚
 - **University:** Universidad Técnica Federico Santa María
-- **Major:** Computer Engineering (5th year)
+- **Major:** Computer Engineering (6th year)
 
 ## Skills
 - Freelance Experience (Started working as a freelance programmer in February 2024 following my internship)
